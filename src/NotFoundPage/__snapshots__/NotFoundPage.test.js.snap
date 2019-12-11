@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders the UI as expected 1`] = `
+Array [
+  <h1>
+    Peace is not found, it is created.
+    <br />
+    The page you are searching for is also not found,
+    <br />
+    so this page was created.
+  </h1>,
+  <a
+    className="link"
+    href="/question/1"
+    onClick={[Function]}
+  >
+    Go To Quiz
+  </a>,
+]
+`;

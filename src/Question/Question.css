@@ -1,0 +1,63 @@
+.pose {
+  height: 225px;
+  max-width: 270px;
+}
+
+.link {
+  display:inline-block;
+  margin: auto;
+  width: 200px;
+  background-color: gainsboro;
+  text-decoration: none;
+  font-family: 'Oswald', sans-serif;
+  color: #24A159;
+  border-radius: 8px;
+  box-shadow: 0px;
+}
+
+.link:focus {
+  outline: none;
+}
+
+.link:hover {
+  background-color: #ff476f;
+  -webkit-transition-duration: 0.8s; /* Safari */
+  transition-duration: 0.8s;
+  color: white;
+  cursor: pointer;
+}
+
+form {
+  height: 150px;
+  width: 200px;
+  margin: auto;
+}
+
+fieldset {
+  border: 0;
+}
+
+ul {
+  list-style-type: none;
+}
+
+label {
+  display: flex;
+  transition: all 0.3s ease-out;
+  cursor: pointer;
+}
+
+label:hover, label:focus {
+  background-color: #ff476f;
+  color: white;
+}
+
+label:focus, input:focus {
+  outline: none;
+}
+
+input[type="radio"] {
+ margin-top: 6px;
+ margin-left: 1px;
+ cursor: pointer;
+}

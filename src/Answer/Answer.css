@@ -1,0 +1,28 @@
+.pose {
+  height: 225px;
+  max-width: 270px;
+}
+
+.link {
+  display:inline-block;
+  margin: auto;
+  width: 200px;
+  background-color: gainsboro;
+  text-decoration: none;
+  font-family: 'Oswald', sans-serif;
+  color: #24A159;
+  border-radius: 8px;
+  box-shadow: 0px;
+}
+
+.link:focus {
+  outline: none;
+}
+
+.link:hover {
+  background-color: #ff476f;
+  -webkit-transition-duration: 0.8s; /* Safari */
+  transition-duration: 0.8s;
+  color: white;
+  cursor: pointer;
+}

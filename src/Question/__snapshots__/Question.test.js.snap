@@ -1,0 +1,72 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders the UI as expected 1`] = `
+Array [
+  <img
+    alt="People standing with feet hips-width apart, a slight bend in their knees, hands by their sides and palms facing forward."
+    className="pose"
+    src="pose1.png"
+  />,
+  <br />,
+  <form>
+    <fieldset>
+      <legend>
+        Name the yoga pose:
+      </legend>
+      <ul>
+        <li>
+          <label>
+            <input
+              defaultChecked={true}
+              name="answer"
+              type="radio"
+              value={0}
+            />
+            Sturdy Foothill Pose
+          </label>
+        </li>
+        <li>
+          <label>
+            <input
+              defaultChecked={false}
+              name="answer"
+              type="radio"
+              value={1}
+            />
+            Mountain Pose
+          </label>
+        </li>
+        <li>
+          <label>
+            <input
+              defaultChecked={false}
+              name="answer"
+              type="radio"
+              value={2}
+            />
+            Upright Forward Pose
+          </label>
+        </li>
+        <li>
+          <label>
+            <input
+              defaultChecked={false}
+              name="answer"
+              type="radio"
+              value={3}
+            />
+            Standing Corpse Pose
+          </label>
+        </li>
+      </ul>
+      <a
+        className="link"
+        href="/question/1/answer"
+        onClick={[Function]}
+      >
+        Check Answer
+      </a>
+    </fieldset>
+  </form>,
+]
+`;

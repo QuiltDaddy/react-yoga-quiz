@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/react-yoga-quiz/static/css/main.416fcfe0.chunk.css",
+    "main.js": "/react-yoga-quiz/static/js/main.e794d4e3.chunk.js",
+    "main.js.map": "/react-yoga-quiz/static/js/main.e794d4e3.chunk.js.map",
+    "runtime-main.js": "/react-yoga-quiz/static/js/runtime-main.fb422d6c.js",
+    "runtime-main.js.map": "/react-yoga-quiz/static/js/runtime-main.fb422d6c.js.map",
+    "static/js/2.792c1e14.chunk.js": "/react-yoga-quiz/static/js/2.792c1e14.chunk.js",
+    "static/js/2.792c1e14.chunk.js.map": "/react-yoga-quiz/static/js/2.792c1e14.chunk.js.map",
+    "index.html": "/react-yoga-quiz/index.html",
+    "precache-manifest.b1441c487783d44968b1cde5edabe1a3.js": "/react-yoga-quiz/precache-manifest.b1441c487783d44968b1cde5edabe1a3.js",
+    "service-worker.js": "/react-yoga-quiz/service-worker.js",
+    "static/css/main.416fcfe0.chunk.css.map": "/react-yoga-quiz/static/css/main.416fcfe0.chunk.css.map",
+    "static/js/2.792c1e14.chunk.js.LICENSE": "/react-yoga-quiz/static/js/2.792c1e14.chunk.js.LICENSE",
+    "static/media/pose0.png": "/react-yoga-quiz/static/media/pose0.cba2a7e5.png",
+    "static/media/pose1.png": "/react-yoga-quiz/static/media/pose1.da3cb65a.png",
+    "static/media/pose10.png": "/react-yoga-quiz/static/media/pose10.2c56a9bb.png",
+    "static/media/pose2.png": "/react-yoga-quiz/static/media/pose2.726e3830.png",
+    "static/media/pose3.png": "/react-yoga-quiz/static/media/pose3.3a1c786e.png",
+    "static/media/pose4.png": "/react-yoga-quiz/static/media/pose4.b61ea264.png",
+    "static/media/pose5.png": "/react-yoga-quiz/static/media/pose5.1b7ab881.png",
+    "static/media/pose6.png": "/react-yoga-quiz/static/media/pose6.d7c661c8.png",
+    "static/media/pose7.png": "/react-yoga-quiz/static/media/pose7.f0257e07.png",
+    "static/media/pose8.png": "/react-yoga-quiz/static/media/pose8.bd590b63.png",
+    "static/media/pose9.png": "/react-yoga-quiz/static/media/pose9.3d69e863.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb422d6c.js",
+    "static/js/2.792c1e14.chunk.js",
+    "static/css/main.416fcfe0.chunk.css",
+    "static/js/main.e794d4e3.chunk.js"
+  ]
+}

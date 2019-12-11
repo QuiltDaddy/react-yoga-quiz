@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders the UI as expected 1`] = `
+Array [
+  <img
+    alt="Man and Woman Standing"
+    className="pose"
+    src="pose0.png"
+  />,
+  <br />,
+  <h3>
+    You scored a 
+     out of 10
+  </h3>,
+  <a
+    className="link"
+    href="/question/1"
+    onClick={[Function]}
+  >
+    Play Again
+  </a>,
+  <h1
+    className="quote"
+  />,
+]
+`;

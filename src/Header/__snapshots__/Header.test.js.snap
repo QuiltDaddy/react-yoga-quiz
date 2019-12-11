@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders the UI as expected 1`] = `
+<header
+  role="banner"
+>
+  <h2>
+    Question: 
+    1
+  </h2>
+  <h1>
+    Yoga Quiz
+  </h1>
+  <h2>
+    Score: 
+    0
+    /
+    1
+  </h2>
+</header>
+`;

@@ -1,0 +1,42 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders the UI as expected 1`] = `
+<div
+  className="App"
+>
+  <header
+    role="banner"
+  >
+    <h2>
+      Question: 
+      0
+    </h2>
+    <h1>
+      Yoga Quiz
+    </h1>
+    <h2>
+      Score: 
+      0
+      /
+      0
+    </h2>
+  </header>
+  <main
+    role="main"
+  >
+    <img
+      alt="Man and Woman Standing"
+      className="pose"
+      src="pose0.png"
+    />
+    <br />
+    <a
+      className="link"
+      href="/question/1"
+      onClick={[Function]}
+    >
+      Begin
+    </a>
+  </main>
+</div>
+`;
