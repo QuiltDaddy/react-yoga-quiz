@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d5acd3ec65095d014a52e8916fb21a73",
+    "revision": "01ab746501a1e3597726968c66efdb7c",
     "url": "/react-yoga-quiz/index.html"
   },
   {
-    "revision": "3aa03aeec98aeb02c4bd",
+    "revision": "b5b7ed23b0d3e9c3aeca",
     "url": "/react-yoga-quiz/static/css/main.416fcfe0.chunk.css"
   },
   {
-    "revision": "cc030b3c2986369141e9",
-    "url": "/react-yoga-quiz/static/js/2.792c1e14.chunk.js"
+    "revision": "2d5b716c166cc130a65c",
+    "url": "/react-yoga-quiz/static/js/2.bdba192a.chunk.js"
   },
   {
-    "revision": "3e6887b9ed6d8bee1d899d2295e5baa1",
-    "url": "/react-yoga-quiz/static/js/2.792c1e14.chunk.js.LICENSE"
+    "revision": "e928fe768baa9832b5bc57eae021f30c",
+    "url": "/react-yoga-quiz/static/js/2.bdba192a.chunk.js.LICENSE"
   },
   {
-    "revision": "3aa03aeec98aeb02c4bd",
-    "url": "/react-yoga-quiz/static/js/main.e794d4e3.chunk.js"
+    "revision": "b5b7ed23b0d3e9c3aeca",
+    "url": "/react-yoga-quiz/static/js/main.da3532c0.chunk.js"
   },
   {
     "revision": "14b79273f916787d7183",
