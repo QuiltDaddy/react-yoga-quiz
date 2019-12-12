@@ -49,7 +49,7 @@ const theQuiz = [
     pose: pose4,
     answers: [
       'Warrior I Pose',
-      'Proclamation of Innocence Pose',
+      'Innocence Proclamation Pose',
       'Raised Lunge Pose',
       'Eagle Pose'
       ],
