@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-yoga-quiz/static/css/main.416fcfe0.chunk.css",
+    "main.css": "/react-yoga-quiz/static/css/main.903a751f.chunk.css",
     "main.js": "/react-yoga-quiz/static/js/main.da3532c0.chunk.js",
     "main.js.map": "/react-yoga-quiz/static/js/main.da3532c0.chunk.js.map",
     "runtime-main.js": "/react-yoga-quiz/static/js/runtime-main.fb422d6c.js",
@@ -8,9 +8,9 @@
     "static/js/2.bdba192a.chunk.js": "/react-yoga-quiz/static/js/2.bdba192a.chunk.js",
     "static/js/2.bdba192a.chunk.js.map": "/react-yoga-quiz/static/js/2.bdba192a.chunk.js.map",
     "index.html": "/react-yoga-quiz/index.html",
-    "precache-manifest.ea4b062fb392e0bfd4df79d443dd98ad.js": "/react-yoga-quiz/precache-manifest.ea4b062fb392e0bfd4df79d443dd98ad.js",
+    "precache-manifest.823a41a957cfd3a008dc8e9662572c29.js": "/react-yoga-quiz/precache-manifest.823a41a957cfd3a008dc8e9662572c29.js",
     "service-worker.js": "/react-yoga-quiz/service-worker.js",
-    "static/css/main.416fcfe0.chunk.css.map": "/react-yoga-quiz/static/css/main.416fcfe0.chunk.css.map",
+    "static/css/main.903a751f.chunk.css.map": "/react-yoga-quiz/static/css/main.903a751f.chunk.css.map",
     "static/js/2.bdba192a.chunk.js.LICENSE": "/react-yoga-quiz/static/js/2.bdba192a.chunk.js.LICENSE",
     "static/media/pose0.png": "/react-yoga-quiz/static/media/pose0.cba2a7e5.png",
     "static/media/pose1.png": "/react-yoga-quiz/static/media/pose1.da3cb65a.png",
@@ -27,7 +27,7 @@
   "entrypoints": [
     "static/js/runtime-main.fb422d6c.js",
     "static/js/2.bdba192a.chunk.js",
-    "static/css/main.416fcfe0.chunk.css",
+    "static/css/main.903a751f.chunk.css",
     "static/js/main.da3532c0.chunk.js"
   ]
 }
