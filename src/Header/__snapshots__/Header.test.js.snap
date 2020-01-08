@@ -13,7 +13,7 @@ exports[`renders the UI as expected 1`] = `
   </h1>
   <h2>
     Score: 
-    0
+    1
     /
     1
   </h2>

@@ -10,7 +10,7 @@ it('renders without crashing', () => {
     <BrowserRouter>
       <NotFoundPage />
     </BrowserRouter>
-    , div);
+  , div);
   ReactDOM.unmountComponentAtNode(div);
 });
 
@@ -18,7 +18,7 @@ it('renders the UI as expected', () => {
 const tree = renderer
   .create(
     <BrowserRouter>
-      <NotFoundPage testing={true} />
+      <NotFoundPage />
     </BrowserRouter>)
   .toJSON();
 expect(tree).toMatchSnapshot();  

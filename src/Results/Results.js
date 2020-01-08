@@ -30,7 +30,7 @@ class Results extends Component {
           onClick={() => nextQuestion(true)}>
           Play Again
         </Link>
-        <h1 className='quote'>{quotes[score]}</h1>
+        <h3 className='quote'>{quotes[score]}</h3>
       </>
     );
   }

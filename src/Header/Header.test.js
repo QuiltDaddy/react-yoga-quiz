@@ -14,7 +14,7 @@ const tree = renderer
   .create(
     <Header
       question={1}
-      score={0}
+      score={1}
       topScore={1} />)
   .toJSON();
 expect(tree).toMatchSnapshot();  

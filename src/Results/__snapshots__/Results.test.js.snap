@@ -19,7 +19,7 @@ Array [
   >
     Play Again
   </a>,
-  <h1
+  <h3
     className="quote"
   />,
 ]

@@ -18,7 +18,9 @@ it('renders the UI as expected', () => {
 const tree = renderer
   .create(
     <BrowserRouter>
-      <LandingPage testing={true} />
+      <LandingPage
+        testing={true}
+        nextQuestion={() => {}} />
     </BrowserRouter>)
   .toJSON();
 expect(tree).toMatchSnapshot();  
